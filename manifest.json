@@ -1,5 +1,5 @@
 {
-  "name": "arangoCMS",
+  "name": "arango-cms",
   "version": "0.1.3",
   "description": "A Content Management System for ArangoDB",
   "thumbnail": "arangoLogo.png",
