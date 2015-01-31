@@ -4,10 +4,6 @@
   "description": "A Content Management System for ArangoDB",
   "thumbnail": "arangoLogo.png",
 
-  "apps": {
-    "/": "cms.js"
-  },
-  
   "lib": ".",
   
   "assets": {
